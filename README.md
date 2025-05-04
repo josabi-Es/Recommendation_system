@@ -1,4 +1,4 @@
-# Recommendation App
+# Recommendation System
 
 This project provides a simple recommendation system that suggests Hacker News articles based on a simulated user history of preferences. It uses web scraping to gather data, natural language processing to analyze content, and a vector database to find similar articles.
 
