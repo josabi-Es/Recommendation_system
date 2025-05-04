@@ -4,8 +4,6 @@ This project provides a simple recommendation system that suggests Hacker News a
 
 ## How It Works
 
-## How It Works
-
 This project provides a simple recommendation system that suggests Hacker News articles based on a simulated user history of preferences. The process involves the following steps:
 
 1.  **Web Scraping for Data Collection:**
